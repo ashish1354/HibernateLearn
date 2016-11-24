@@ -6,6 +6,15 @@ import junit.framework.TestSuite;
 
 /**
  * Unit test for simple App.
+ * 
+ *
+    git init
+	git add .
+	git commit -m "Initial commit"
+	git remote add origin https://github.com/ashish1354/HibernateLearn.git
+	git push -u origin master
+ * 
+ * 
  */
 public class AppTest 
     extends TestCase
